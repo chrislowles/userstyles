@@ -6,9 +6,3 @@ Much like userscripts are extensions written to be installed in userscript manag
 
 ## Versioning:
 The versioning on the userscripts is defined by year.month.day-hotfix, for example 2024.12.25-1 would be a release for the 25th of December, 2024 with the first of any amount of possible additional hotfixes.
-
-## Ones I've made:
-### [phanpy-tweaks.user.css](https://raw.githubusercontent.com/chrislowles/userstyles/main/phanpy-tweaks.user.css)
-A handful of adjustments to Phanpy.social, a third-party client for Mastodon.
-### [yt-fullscreen-ish-theatre-mode.user.css](https://raw.githubusercontent.com/chrislowles/userstyles/main/yt-fullscreen-ish-theatre-mode.user.css)
-Simple style that causes the YouTube player to fill the window when in Theatre Mode but not overlap the navigation bar.
